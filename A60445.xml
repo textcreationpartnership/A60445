@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sounding voyce of the dread of Gods mighty power to all the iudges and rulers of the earth, who rise up against the Lamb, and to Gog, Magog, and all their armies, and to the whole host of the power of darkness, and to all men, who fight against God, who, or whatsoever they be (or whatsoever they are called).</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60445</idno>
+            <idno type="STC">Wing S4075</idno>
+            <idno type="STC">ESTC R17774</idno>
+            <idno type="EEBO-CITATION">13164163</idno>
+            <idno type="OCLC">ocm 13164163</idno>
+            <idno type="VID">98210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98210)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 751:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sounding voyce of the dread of Gods mighty power to all the iudges and rulers of the earth, who rise up against the Lamb, and to Gog, Magog, and all their armies, and to the whole host of the power of darkness, and to all men, who fight against God, who, or whatsoever they be (or whatsoever they are called).</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Humphrey Smith. Cf. NUC pre-1956.</note>
+                  <note>Signed at end: H.S.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98210:1"/>
+            <pb facs="tcp:98210:1"/>
+            <p>THE SOUNDING VOYCE OF THE DREAD OF GODS MIGHTY POWER, To all the Iudges and Rulers of the earth, who riſe up againſt the Lamb, And to <hi>Gog, Magog,</hi> and all their Armies, And to the whole hoſt of the power of darkneſs, and to all men, who fight againſt God, who, or whatſoever they be (or whatſoever they are called.)</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Alderſgate,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:98210:2"/>
+            <epigraph>
+               <q>The ſounding voice of the dread of Gods mighty power, to all the Judges and Rulers of the earth, who riſe up againſt the Lamb, And to <hi>Gog, Magog,</hi> and all their Armys, And to the whole hoſt of the powers of darkneſs, and to all men, who fight against God, who, or whatſoever they be (or whatſoever they are called.)</q>
+            </epigraph>
+            <p>BEhold ye Rulers of the earth, liſten and heare, all ye earthly minded men, let the blindneſs of your minds be opened, that your dark hearts may be enlightened, hear I ſay and ſtop not your eares, you whoſe minds are in the earth, whoſe eyes are cloſed, whoſe hearts are covered, with a thick vail, by your own iniquity, who ſee not the wonders of the Lord, wrought among the living, neither perceive the mighty power of the God of the whole earth, who are beſotted through the ſinfulneſs of your continual tranſ<g ref="char:EOLhyphen"/>greſſions, and are groveling as moles in the earth, &amp; laden with thick clay, and covered with the vail that is ſpread over all fleſh, that you ſee not the glory of the God of life, neither perceive ye the comlineſs, of the holy one of <hi>Jacob,</hi> to whom the bright morning<g ref="char:EOLhyphen"/>ſtar, is as a cloud of darkneſs, and the way of the living God, as a fierce whirlwind of fire, who ſee not him that dwelt in the Buſh, neither hear his voice, who hath made darkneſs his habitation, and his pavilion round about him, thick clouds of the ſky.</p>
+            <p>Heare I ſay, and let my words, have entrance in you, and let the ſound of my voice, take place in your hearts, let the opening of my lips give aſtoniſhment to the wicked, and the inlargement of my heart the confounding of the Heathen, let the dread of the Lord take hold upon the Hypocrites, and aſtoniſhment ſeaze upon the double minded, let the prudent keep ſilence and heare, and let the honourable be quiet and conſider, let the underſtanding give au<g ref="char:EOLhyphen"/>dience to my words, and let the mouth of the fool be ſtopt, let the ſinner ſtand ſtill and be quiet, and let the ungodly conſider the words of truth, rebel not againſt the word of the Lord, neither har<g ref="char:EOLhyphen"/>den your hearts againſt the dread of his power, let the tall ceders bow and bend, and that which is lifted up be brought down, and ſtand ye all in meekneſs.</p>
+            <p>For behold the omnipotent power is come, the rock of ages is revealed, the everlaſting ſtrength is made manifeſt, the God of
+<pb n="3" facs="tcp:98210:2" rendition="simple:additions"/> 
+               <hi>Abraham</hi> hath reacht forth his hand, and the Redeemer of <hi>Iſrael</hi> is come to dwell in the midſt the great <hi>Jehovah</hi> hath uttered his voice, and he whoſe Name is <hi>I Am,</hi> is at hand, he that moveth up<g ref="char:EOLhyphen"/>on the waters may be felt, &amp; he that formeth the ſeed in the womb may be known, he that inhabiteth eternity, is come to dwell in his people, and walk in the middeſt of the poor deſpiſed of his flock, having cleanſed them by the waſhing of water, and renewed them by the Spirit of burning, &amp; refined them, with his righteous Judge<g ref="char:EOLhyphen"/>ments, and cleanſed them with the blood of his Son, that in his <hi>Sion</hi> (redeemed with judgement) he may dwell for ever more, and take up his reſt in the middeſt of his people, having made the place of his feet glorious, and his reſidence as a ſeat in the middeſt of a fire, which fire burneth againſt all them that are in the night, and giveth light to them that are in the covenant, whoſe glory is hid from the dark mind, and his councel withholden from the unbe<g ref="char:EOLhyphen"/>leeving in heart, he ſtandeth near unto the wicked, who perceiveth him not, and taketh notice of his ſecret intents, he obſerveth the footſteps of the Kings of the earth, and marketh the decrees of the unrighteous, and when they have filled up their meaſure, he putteth forth his finger to their life, and taketh away their breath, he ſuddenly cuts off the wicked, and regardeth not the mightineſs of Princes, he ſearcheth the hearts of the Kings, and ruleth over the powers of men, his infiniteneſs, can never be declared, in his hand is the breath of the life of the ſouls of all man-kind.</p>
+            <p>Heare I ſay and conſider my words, and ponder the meditations of my mind, for behold the Lord God of life is come, <hi>Immanuel</hi> is revealed, the Root and of-ſpring of <hi>David</hi> is grown up as a plant of renown, the Seed of the ſhepherd ſits upon the throne, and be<g ref="char:EOLhyphen"/>fore him ſhall all the Kings of the earth lay down their Crowns; every Emperor ſhall bow and bend; and the Potentates of the earth (before him) ſhall wither as a green hearb, their glory ſhall periſh as the untimely birth of the womb, their honour ſhall vaniſh as the ſmoke before the wind; their wiſdom ſhall fade away, as a bloſ<g ref="char:EOLhyphen"/>ſom cut off, and their underſtandings ſhall come to nothing; the wiſdome of the moſt high ſhall be exalted over them all, and with his fooliſhneſs, will he them all confound, yea with a fooliſh Na<g ref="char:EOLhyphen"/>tion will he anger the Judges of the earth, and with a deſpiſed people will he provoke the Rulers of the world to jealouſie, by the fooliſhneſs of his flock, will he confound his enemies, and by
+<pb n="4" facs="tcp:98210:3"/> his weakneſs in them, will he ſubdue the ſtrength of the mighty, and though all his enemies (ſtrive) in the arrogancy of their Spi<g ref="char:EOLhyphen"/>rits, and in the fierceneſs of their ſtrength, yet ſhall he be exalted, who is lead as a Lamb dumb, and he ſhall reign whoſe right it is, in whoſe mouth there is found no guile, who maketh an end of ſin, and bringeth in everlaſting righteouſneſs, and ſetteth up judge<g ref="char:EOLhyphen"/>ment in the heart, and cometh to rule in the Kingdomes of men, and overturneth the hoſt of his enemies, by whom Judges are lead away fools, deviners turned mad, before whoſe preſence the mightineſs of the mightieſt Rulers of the earth is as wax before the fire, and their ſtrength melteth away as the fat of Lambs.</p>
+            <p>Wherefore hear and ſee, O ye kindreds and Rulers of the earth, the Lord our God is come, the might of his ſtrength is revealed, &amp; the power of his preſence made known; he hath choſen his Army to himſelf, &amp; their names are written in his life; he hath numbred up his hoſts together, and armed his choſen with his everlaſting ſtrength; the Captain of his hoſt goeth before them, and the camp of the Lord is very great, they are numberleſs as the ſand of the Sea, and infinite as the ſtars of heaven: Even ſo is the ſeed of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> the remnant of the flock of <hi>Jacob,</hi> whom the Lord hath re<g ref="char:EOLhyphen"/>deemed, who are choſen, and faithful, and true; yea, behold it's e<g ref="char:EOLhyphen"/>ven ſo, and that all the Nations of the earth ſhall know, for the Lord of hoſts rideth on in meekneſs, in the midſt of his hoſt, and maketh War in righteouſneſs, with the enemies of the Lamb, who would not that he ſhould reign, who makes an end of ſin, and he is cloathing his Army with zeal as with a garment, and covering them with the armour of light, and preſerveth their head in the day of battel, and girds them up with ſtrength, and guideth their feet upon the rock, and preſerveth their life under the ſhadow of his hand. When he ſpeaketh the word, his Army goeth forth, and at his command they march on their way; He lifteth up a Standard before them, and proclaimeth open War againſt the Inhabitants of the Earth, who now hear that the Lamb is come to reign in Righteouſneſs, and to ſtain the pride of their glory, and confound the height of their wiſ<g ref="char:EOLhyphen"/>dome, and lay their honour in the duſt for ever.</p>
+            <p>Therefore all Kindreds of the earth, even <hi>Gog, Magog,</hi> and all the hoſts of the heathen, are riſing up in the bitterneſs of their ſpirits, in the height of the power of the man of ſinne, joyning all their forces together, as in one band of darkneſſe, taking counſell
+<pb n="5" facs="tcp:98210:3"/> from <hi>Aegypt, making a covenant with death, and an agreement with hell,</hi> and gathering up the utmoſt powers of darkneſs to be as a re<g ref="char:EOLhyphen"/>fuge unto them: And thus in the ſtrength of the King of the chil<g ref="char:EOLhyphen"/>dren of pride, they are riſing up againſt the Lord, even the God of life, and againſt his anointed ones, who have indeed and in truth <hi>received the anointings, and need not man to teach them, but are all taught of the Lord God Almighty, who alſo teacheth their hands to war, and their fingers to fight:</hi> And he utters his voice as he ſound of ma<g ref="char:EOLhyphen"/>ny waters, before his Army, who followeth him in the might of his power, whoſe preſence is dreadful in the midſt of his hoſt, and there is none that is able to ſtand before him, for he is a conſuming fire in the midſt of his Camp, and burneth up his enemies round about; and before him and his Army ſhall all faces gather pale<g ref="char:EOLhyphen"/>neſs, everlaſting ſhame ſhall cover the glory of all fleſh, before him all people ſhall be much pained, his dread and vengeance ſhall take hold on all his adverſaries; His redeemed ſhall march with him in the travail of their ſouls, from <hi>ſtrength to ſtrength</hi> ſhall they con<g ref="char:EOLhyphen"/>tinue on, and none ſhall be feeble among them; their arrows ſhall reach into the bowels of the ſcornful, and their words of life pierce the hearts of the hypocrites. They ſhall tread upon Kings, as upon mortar, and trample upon the wicked as upon aſhes; they fear not the greateſt <hi>Goliah's,</hi> neither yet the wickedneſs of the pride of <hi>Ha<g ref="char:EOLhyphen"/>man,</hi> unrighteous Decrees cannot ſtop their mouths, nor the fear of a Furnace, or a Dungeon with-hold them from their way, all fleſh is as graſſe before them, and at their rebuke ſhall the potſheards of the earth be broken for ever; before them there is no Nation ſhall ſtand, for one of them ſhall chaſe a hundred, and before five ſhall the ſtrength and wiſdome of a thouſand be confounded.</p>
+            <p>And this the Lords Army ſhall never be confounded, and his glory in them ſhall never be defaced, nor his power with them ſhal never be overcome, nor his ſtrength in them ſhall never be vanqui<g ref="char:EOLhyphen"/>ſhed; therefore in vain do all the potſherds of the earth ſtrive; <hi>For they that riſe up against them ſhall be as flax before the fire, and the mightieſt among the ſons of men ſhall be as the graſſe that is cut downe;</hi> for the Lords hoſt is very terrible, and in meekneſs is the Lamb ri<g ref="char:EOLhyphen"/>ding on to judgement, his followers are enrobed with the light of the morning, and adorned with the beauty of the Sun. Their eyes are enlightned with the light of the moſt high, &amp; they ſee through the dark parts of all their enemies, and diſcern the ſecret plottings
+<pb n="6" facs="tcp:98210:4"/> of all their adverſaries. Their wiſdom comes in like a river, and their underſtanding ſhall never be darkned. Their ſtrength is re<g ref="char:EOLhyphen"/>newed as the morning, and they are valiant to do exploits. The wiſ<g ref="char:EOLhyphen"/>dome of the wiſe before them ſhall be confounded for ever, and the underſtanding of the prudent be eſteemed as a thing of nought. They ſpy out the lurkings of their enemies, and ſee through the coverings of the deceitful. Of their ſtrength they ſhall never be de<g ref="char:EOLhyphen"/>prived, neither ſhall their weapons be taken from them. Their re<g ref="char:EOLhyphen"/>fuge ſhall never be ſhaken, nor the place of their reſt removed. The wicked ſhall never enter upon their dwellings, nor all their enemies invade the land of their reſt; for the deſire of all Nations to them is come &amp; him that they long waited for have they now received. And they tread upon the Cocka-trice den, and meet the devouring Lyons; In the power of the Fathers love there is no deadly thing that doth them hurt, nor any weapon formed againſt them that ever ſhall proſper.</p>
+            <p>And this is <hi>Sion,</hi> the redeemed of the Lord, the glory of the God of <hi>Iſrael,</hi> the feed of <hi>Jacob</hi> whom the Lord hath choſen, and ſet up on high over all the kindreds of the earth, which ſtands a<g ref="char:EOLhyphen"/>gainſt all the enemies of the Lord, and is his new threſhing inſtru<g ref="char:EOLhyphen"/>ment, with which he will threſh the Heathen in his anger, and bathe his ſword in the blood of the ſlain, for behold his ſword ſhall devour much fleſh, and the ſlain of the Lord ſhall be many; with <hi>Sion</hi> the perfection of beauty will the Lord break in pieces, wound, confound and overturn for ever, the horſe and his Rider; the Captain and his Troop; the Ancient and honourable; the Prophet that telleth lyes, yea all the hoſt of the unrighteous, and the ſtrength of the Army of the man of ſin, and the beauty of the whore that rides upon the beaſt, and all them who ſet themſelves in battel againſt the Lord, and all them who lead into captivity and would captivate the Servants of the Lamb, ſhall go into capti<g ref="char:EOLhyphen"/>vity for ever.</p>
+            <p>For behold the Lord is with us, the Shout of a King is among us, the Lord whoſe name is holy is come, he hath uttered his voice from Heaven, and now the Nations of the earth are angry, but the Lord will reign in righteouſneſs, and all his enemies ſhall be aſto<g ref="char:EOLhyphen"/>niſhed at his preſence, and his adverſaries ſhall be amazed for ever, their hearts ſhall be turned as a ſtone within them, and men ſhall be at their wits end, for fear and for looking after thoſe things
+<pb n="7" facs="tcp:98210:4"/> which ſhall come upon the earth, and all them whoſe names are written in it, their wiſdome ſhall not preſerve them, their under<g ref="char:EOLhyphen"/>ſtandings ſhall not defend them, neither ſhall all their ſubtilty co<g ref="char:EOLhyphen"/>ver them from the Light, their nakedneſs ſhall appear to their e<g ref="char:EOLhyphen"/>verlaſting ſhame, and the priſoners of hope ſhall rejoyce over them for ever more.</p>
+            <p>For behold I ſay your day is come, wherein you ſhall bow down under the priſoners, and fall under the ſlain, according to the words of the ſpirit of prophecy, <hi>Eſay.</hi> 10. 4. and the ſlain over you ſhall rejoyce for ever more, having the high prayſes of God in their mouths, and the ſword of the ſpirit in their hearts, with which they ſhall cut in pieces and pierce in ſunder, the bowels of all fleſh, and it ſhall be as chaff before them, and the ſtrength there<g ref="char:EOLhyphen"/>of as the paſſing away of the morning cloud, and in the ſtrength of the moſt high, ſhall the Army of the <hi>Lyon of the tribe of Judah,</hi> go on and proſper, even as <hi>Kings,</hi> whoſe Armies are ſwift to the bat<g ref="char:EOLhyphen"/>tel, their faces are as an Adamant, and their countenances fierce, and terrible, the ſound of their voice is dreadful, and the noiſe of their appearance aſtoniſheth the Heathen, the earth before them is full of its fruit, behind them its a deſolate wilderneſs, they ſpare not the ancient, nor the honourable, neither have they reſpect to the perſons of men; they even ſmile at deſtruction when it's coming, and they are prepared for all your oppreſſions.</p>
+            <p>Wherefore now gather your ſelves together, O ye potſheards of the earth, and ſtand up all you that thirſt for blood, aſſemble your ſelves together all ye perſecutors, let your counſels come up from hell, and let the depth of the powers of darkneſs ſhew forth it ſelfe in the utmoſt of its ſtrength, and with it combine ye all together, and ſtand up in the power of your King, which is the An<g ref="char:EOLhyphen"/>gell of the <hi>bottomleſs pit,</hi> who is head among (in) and over all you who thirſteth for the blood of the innocent. Now come and draw near in the very height of your Fathers wrath, and behold we meet you in the infiniteneſs of our Fathers love, and ſtand you together in the depth of your ſecret ſubtilty, and behold we abide in the pure wiſdome of the moſt High. Stand ye up for the glory and ho<g ref="char:EOLhyphen"/>nour of the world, and we abide faithful for the glory of the Lord our maker.</p>
+            <p>And this I ſay plainly unto you, that your long tyranny will ne<g ref="char:EOLhyphen"/>ver weary out the patience we have received, neither can you in<g ref="char:EOLhyphen"/>flict more puniſhment then the Lord hath enabled us to bear; and
+<pb n="8" facs="tcp:98210:5"/> as your wrath is increaſed, our humility is increaſed much more; and as you are filled, and moved with envy, we are much more fil<g ref="char:EOLhyphen"/>led and overcome with the power of the Fathers life; and though you contrive wayes to enſuare the innocent, we take no thought a<g ref="char:EOLhyphen"/>forehand to deliver our ſelves, for ſelfe we have denyed, and we have given up our bodies and ſouls a living ſacrifice unto God, to do or ſuffer his will: And him that kills the body we feare not, much leſſe thoſe that can but whip or impriſon but for a few moneths; for our life you cannot reach, neither can you diſturb their reſt whom the Lord hath crowned with honour, who out of the world are redeemed and bought with the price of blood moſt precious, but are become his, to follow him whither ever he lead them, though it be through tryals, great tribulations, bonds and long impriſonments, theſe things cannot move them who are brought to reſt in the deſerts, and ſleep in the woods; Yea, and there is none can make them afraid with all their threats, unrigh<g ref="char:EOLhyphen"/>teous Laws, bonds, Bridewels, long unjuſt impriſonments, or death it ſelf.</p>
+            <p>And this honour hath the Saints, and herein do they rejoyce for evermore, in that they are counted worthy to ſuffer for his Names ſake, who was made perfect through ſufferings, and thereby over<g ref="char:EOLhyphen"/>came all the powers of Darkneſſe, whereby <hi>Principalities and pow<g ref="char:EOLhyphen"/>ers are ſpoiled for ever, and through ſufferings are we made more then conquerours over all our enemies,</hi> whoſe day will have an end, whoſe cruelty will ceaſe, whoſe tyranny will be rewarded upon their own heads, and their memoriall will rot for ever; but the faithfulneſſe of the faithfull ſhall never be taken from him, nor the innocency of the harmleſſe ſhall never be forgotten, neither ſhall they ever want ſtrength to ſtand in the day of battell, nor courage and boldneſſe to endure, when the enemies of the Lord a<g ref="char:EOLhyphen"/>riſeth up in oppoſition againſt the brightneſſe of the riſing of the power of the Lamb of God, who is come to take away the ſin of the world, even him who is the Light, and the Heir, againſt whom with one conſent, the Rulers of the earth, the Hireling Prieſts, with all the prophane, and unclean, and all them of all opinions in the world, are joyning together in one combination, as with one minde conſpiring in their enmity, to ſlay, and murther the Heir that is now come to make an end of ſin, who ſaith, <hi>I am the Light.</hi>
+            </p>
+            <closer>
+               <signed>H. S.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:98210:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
